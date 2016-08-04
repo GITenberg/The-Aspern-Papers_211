@@ -1,0 +1,33 @@
+_repo: The-Aspern-Papers_211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: The Aspern Papers is a novella set in Venice. A young man travels to
+  the city and takes lodgings with an old woman--the former lover of the dead American
+  poet Aspern. The man believes the old woman still has some letters from Aspern and
+  he ingratiates himself with her niece in an attempt to find them. Suspense builds
+  around the motives and actions of James' masterfully drawn characters.
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Manuscripts -- Collectors and collecting -- Fiction'
+- !lcsh 'Venice (Italy) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Poets -- Fiction'
+- GITenberg
+title: The Aspern Papers
+url: http://www.gutenberg.org/ebooks/211
