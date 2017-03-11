@@ -1,5 +1,8 @@
 _repo: The-Aspern-Papers_211
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -13,6 +16,8 @@ description: The Aspern Papers is a novella set in Venice. A young man travels t
   poet Aspern. The man believes the old woman still has some letters from Aspern and
   he ingratiates himself with her niece in an attempt to find them. Suspense builds
   around the motives and actions of James' masterfully drawn characters.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/211#The-Aspern-Papers
 gutenberg_issued: '2008-06-29'
 gutenberg_type: Text
 identifiers:
